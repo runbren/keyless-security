@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T10:45:28.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.2" etag="SXYxSp3AfiS9K5xN4Op7" type="github"><diagram id="VFYkWOyQrFgfCgSsyagO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-25T11:00:55.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6uKBQJfZggYVeyYUjMtW" version="13.8.2" type="github">
+  <diagram id="VFYkWOyQrFgfCgSsyagO" name="Overview">
+    <mxGraphModel dx="1122" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-1" value="Siren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4uYYf8xD5izp8TEkNXEM-2" target="4uYYf8xD5izp8TEkNXEM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-2" value="12V Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-4" value="Aux 12V Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="400" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="4uYYf8xD5izp8TEkNXEM-7">
+          <mxGeometry width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-3" value="BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4uYYf8xD5izp8TEkNXEM-7">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-8" value="Relay1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4uYYf8xD5izp8TEkNXEM-7">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-10" value="Relay2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4uYYf8xD5izp8TEkNXEM-7">
+          <mxGeometry x="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-9" value="EV1527 Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4uYYf8xD5izp8TEkNXEM-7">
+          <mxGeometry y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-11" value="Antenna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="4uYYf8xD5izp8TEkNXEM-9" target="4uYYf8xD5izp8TEkNXEM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4uYYf8xD5izp8TEkNXEM-14" target="4uYYf8xD5izp8TEkNXEM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-14" value="Motion Sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="4uYYf8xD5izp8TEkNXEM-3" target="4uYYf8xD5izp8TEkNXEM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4uYYf8xD5izp8TEkNXEM-10" target="4uYYf8xD5izp8TEkNXEM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="4uYYf8xD5izp8TEkNXEM-8" target="4uYYf8xD5izp8TEkNXEM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uYYf8xD5izp8TEkNXEM-21" value="Relay1 is enabled by EV1527 and supplies power to the motion sensor.&lt;br&gt;&lt;br&gt;Once tripped the motion sensor activates Relay2 and supplies power to the Siren" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="170" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
